@@ -1,3 +1,8 @@
+### datadir
+
+datadir/db/*
+!datadir/db/.gitkeep
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
